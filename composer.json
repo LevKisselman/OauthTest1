@@ -1,0 +1,8 @@
+{
+    "name": "OauthTest1",
+    "autoload": {
+        "psr-0" : {
+            "php" : "src"
+        }
+    }
+}
