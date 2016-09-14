@@ -1,5 +1,5 @@
 {
-    "name": "OauthTest1",
+    "name": "levk/OauthTest1",
     "autoload": {
         "psr-0" : {
             "php" : "src"
